@@ -7,7 +7,7 @@
 </div><br>
 
 
-![Jihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihun1215&include_all_commits=true&theme=nord&hide_border=true&count_private=true)
+![Jihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihun1215&include_all_commits=false&theme=nord&hide_border=true&count_private=true)
 
  
 <br>
