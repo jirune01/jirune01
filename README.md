@@ -1,26 +1,23 @@
-<div align="left">
+<div align = "right">
   
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&text=Welcome%20to%20Jihun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=50&height=250)
+##
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihun1215%2Fhit-counter&count_bg=%2342D392&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hi&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=harryjh&theme=default)](https://harryjh.tistory.com)
+</div>
 
-</div><br>
+<div align = "center">
+  
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&text=Welcome%20to%20Jihun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=50&height=200)
+
+</div>
 
 
-![Jihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihun1215&include_all_commits=false&theme=nord&hide_border=true&count_private=true)
+<div align = "center">
 
- 
-<br>
 
-![Jihun's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihun1215&layout=compact)
-<br>
 
-</div><br>
-<div align="center">
-<h2>
-<p>  
-Stacks 🛠️
-</p>  
+### Stacks 🛠️
+
 <p> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -41,8 +38,29 @@ Stacks 🛠️
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 </p>
 
-</h2>
 
+
+</div>
+
+<div align = "center">
+
+  ![Jihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihun1215&include_all_commits=false&theme=nord&hide_border=true&count_private=true)
+  ![Jihun's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihun1215&layout=compact)
+
+<br>
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=harryjh&theme=default)](https://harryjh.tistory.com)
+
+
+</div>
+
+
+
+##
+
+<div align = "center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jihun1215&theme=react" />
 
 </div>
 
