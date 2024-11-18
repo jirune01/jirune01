@@ -44,8 +44,8 @@
 
 <div align = "center">
 
-  ![Jihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihun1215&include_all_commits=false&theme=nord&hide_border=true&count_private=true)
-  ![Jihun's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihun1215&layout=compact)
+  ![Jihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirune01&include_all_commits=false&theme=nord&hide_border=true&count_private=true)
+  ![Jihun's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirune01&layout=compact)
 
 
 </div>
@@ -56,7 +56,7 @@
 
 <div align = "center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jihun1215&theme=react" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jirune01&theme=react" />
 
 </div>
 
