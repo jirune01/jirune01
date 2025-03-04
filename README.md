@@ -1,15 +1,15 @@
 <div align = "right">
-  
-##
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihun1215%2Fhit-counter&count_bg=%2342D392&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hi&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<div align=center>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=818CF8&center=true&width=435&lines=Welcome+to+Jirune+GitHub+👻)](https://git.io/typing-svg)
 
 </div>
 
-<div align = "center">
-  
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&text=Welcome%20to%20Jihun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=50&height=200)
+
 
 </div>
+
 
 
 <div align = "center">
@@ -18,29 +18,21 @@
 
 ### Stacks 🛠️
 
-<p> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=Styledcomponents&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-<img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
-<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white">
-</p>
-
-<p>  
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-</p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,notion" />
+<br>
 
 
 
 </div>
+
+### ✨ Visitors count
+
+<p align="center">
+  <img height="68em" src="https://profile-counter.glitch.me/{jirune01}/count.svg" />
+</p>
+
+<br>
 
 <div align = "center">
 
